@@ -4,7 +4,7 @@ import os
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # === Replace with your Bot Token from @BotFather ===
-TOKEN = '7918229131:AAGHphzn3CCrnkD0xJ5ztBkBpOeTJbk5L9A'
+TOKEN = '7952346606:AAFtH83Z8xXCBNnIGjkP4icqEXUsZ7mpgCw'
 bot = telebot.TeleBot(TOKEN)
 
 # === File to store user data ===
